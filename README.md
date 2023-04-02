@@ -25,7 +25,10 @@ Just run:
 
 ```bash
 curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash
-# Or if you want it to be installed to a different path:
+```
+Or if you want it to be installed to a different path:
+
+```bash
 curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash -s mypath/
 ```
 
